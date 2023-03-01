@@ -1,4 +1,4 @@
-# BenchmarkDotNet Example
+# BenchmarkDotNet Tutorial
 This repository contains an example of using BenchmarkDotNet to measure the performance of different string concatenation methods in C#.
 
 For a detailed explanation and demonstration of how to use BenchmarkDotNet, please watch the following YouTube video: https://www.youtube.com/watch?v=Yu4t84ap1Mo
